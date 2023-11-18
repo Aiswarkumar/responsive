@@ -1,0 +1,168 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.a1{
+  margin-left: 70px;
+  /* margin-top: 50px; */
+}
+.a2{
+  border-color: white;
+  background-color: aqua;
+}
+.k1{
+  float: right;
+  margin-right: 50px;
+}
+.q1{
+  float: right;
+  margin-right: 30px;
+  margin-top: 6px;
+  font-weight: 400;
+}
+.q2{
+  float: left;
+  margin-left: 75px;
+  color: rgb(21, 155, 232);
+  margin-top: 50px;
+}
+.q3,.q4{
+  float: left;
+  margin-left: 80px;
+  margin-top: 50px;
+} 
+.w1{ 
+  margin-right: 930px;
+  margin-top: 120px;
+  font-weight: bold;
+  font-size: 24px;
+} 
+span{
+  margin-right: 70px;
+}
+.btn{
+  width: 280px;
+  height: 40px;
+  border-radius: 6px;
+  color: white;
+  float: left;
+  margin-left: 70px;
+  border-style: none;
+  background-color: orangered;
+}
+.t1{
+  text-align: center;
+  margin-top: 80px;
+  font-weight: lighter;
+  font-size: 22px;
+}
+.t3{
+  font-size: 22px;
+  font-weight: lighter;
+  margin-right: 350px;
+  /* margin-left: 5px; */
+}
+.t2{
+  font-size: 22px;
+  font-weight: lighter;
+  margin-left: 15px;
+}
+.q31{
+  color: rgb(21, 155, 232);
+}
+@media screen and (max-width:844px)
+{
+  .a1{
+    /* margin-top: 0px; */
+    float: left;
+    font-size: 16px;
+
+  }
+  .q1{
+    font-size: 15px;
+  }
+  .a3{
+    width: 260px;
+    height: 35px;
+    font-size: 7px;
+    margin-left: -30px;
+    /* margin-right: -80px; */
+  }
+  .q2{
+    margin-top: 0px;
+    margin-left: 10px;
+    font-size: 14px;
+  }
+  .q3{
+    margin-top: 0px;
+    margin-left: 16px;
+    font-size: 14px;
+  }
+  .q4{
+    margin-top: 0px;
+    margin-left: 24px;
+    font-size: 14px;
+  }
+  .w1{
+    font-size: 24px;
+    /* text-align: center; */
+    /* margin-top: 0px;
+    margin-left: 0px; */
+
+  }
+  .btn{
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .t1{
+    font-size: 9px;
+    margin-top: 80px;
+    margin-left: -85px;
+  }
+  .t2{
+    font-size: 9px;
+    margin-top: 10px;
+    margin-left: -87px;
+  }
+  .t3{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 100px;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+
+}
