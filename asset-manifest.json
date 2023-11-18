@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aiswarkumar/responsive.git/static/css/main.3c92fea8.css",
+    "main.js": "/Aiswarkumar/responsive.git/static/js/main.daa4b02b.js",
+    "static/js/787.06fe09f8.chunk.js": "/Aiswarkumar/responsive.git/static/js/787.06fe09f8.chunk.js",
+    "static/media/dd.png": "/Aiswarkumar/responsive.git/static/media/dd.c09f04fed4e0385ea203.png",
+    "static/media/logo.svg": "/Aiswarkumar/responsive.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Aiswarkumar/responsive.git/index.html",
+    "main.3c92fea8.css.map": "/Aiswarkumar/responsive.git/static/css/main.3c92fea8.css.map",
+    "main.daa4b02b.js.map": "/Aiswarkumar/responsive.git/static/js/main.daa4b02b.js.map",
+    "787.06fe09f8.chunk.js.map": "/Aiswarkumar/responsive.git/static/js/787.06fe09f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c92fea8.css",
+    "static/js/main.daa4b02b.js"
+  ]
+}
